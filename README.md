@@ -16,6 +16,7 @@
   
 
 <h2 align="center">User Story</h2>
+
 ```
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
