@@ -38,15 +38,15 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Screenshot/Media
+##Screenshot/Media
 <h3 align="center">Link to Walkthrough</h3>
 <h3 align="center">LINK HERE</h3>
 
 
-## Deployed Link
+##Deployed Link
 https://rehtribution.github.io/13-bb-com-back/
 
-## Usage
+##Usage
 1. In the terminal run  ```mysql -u root -p```
 2. After entering your password execute the following set up commands
 3. ```source db/schema.sql```
@@ -58,7 +58,7 @@ https://rehtribution.github.io/13-bb-com-back/
 9. View walkthrough video for additional useage guidlines
 
 
-## Built With
+##Built With
 
 - HTML
 - CSS
@@ -70,22 +70,22 @@ https://rehtribution.github.io/13-bb-com-back/
     - Sequelize
     - mySQL
 
-## Installation-Requirements
+##Installation-Requirements
 - NPM
     - Express
     - Inquirer
     - mySQL
     
-## Installation
+##Installation
 In the terminal enter these commands:
 ```
 npm i
 ```
 
-## Author
+##Author
 
 [![GitHub Portfolio -> - Rehtribution](https://img.shields.io/badge/GitHub_Portfolio_-->-Rehtribution-1f425f?style=for-the-badge)](https://github.com/Rehtribution)
 
-## Contributions
+##Contributions
 
 - Help from tutor Anthony
