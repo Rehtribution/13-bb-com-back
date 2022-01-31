@@ -44,7 +44,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## Deployed Link
--
+https://rehtribution.github.io/13-bb-com-back/
+
 ## Usage
 1. In the terminal run  ```mysql -u root -p```
 2. After entering your password execute the following set up commands
