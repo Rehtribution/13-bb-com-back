@@ -42,7 +42,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Screenshot/Media
 <h3 align="center">Link to Walkthrough</h3>
-<h3 align="center">LINK HERE</h3>
+<h3 align="center">https://watch.screencastify.com/v/ccJhv5zC7Jxx9d4fmjaQ</h3>
 
 
 ## Deployed Link
