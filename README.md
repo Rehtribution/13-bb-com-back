@@ -70,13 +70,13 @@ https://rehtribution.github.io/13-bb-com-back/
 - NPM
     - Express
     - Sequelize
-    - mySQL
+    - mySQL2
 
 ## Installation-Requirements
 - NPM
     - Express
     - Sequelize
-    - mySQL
+    - mySQL2
     
 ## Installation
 In the terminal enter these commands:
