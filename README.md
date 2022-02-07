@@ -57,7 +57,7 @@ https://rehtribution.github.io/13-bb-com-back/
 6. ```npm run seed```
 7. ```npm start```
 8. Open Insomnia and navigate to the default local host address
-9. View walkthrough video for additional useage guidlines
+9. View walkthrough video for additional usage guidelines
 
 
 ## Built With
