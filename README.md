@@ -75,7 +75,7 @@ https://rehtribution.github.io/13-bb-com-back/
 ## Installation-Requirements
 - NPM
     - Express
-    - Inquirer
+    - Sequelize
     - mySQL
     
 ## Installation
