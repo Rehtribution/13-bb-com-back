@@ -41,12 +41,15 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Screenshot/Media
-<h3 align="center">Link to Walkthrough</h3>
-<h3 align="center">https://watch.screencastify.com/v/ccJhv5zC7Jxx9d4fmjaQ</h3>
+
+[![Video Walkthrough - CLICK HERE](https://img.shields.io/badge/Video_Walkthrough-CLICK_HERE-lightblue?style=for-the-badge)](https://watch.screencastify.com/v/ccJhv5zC7Jxx9d4fmjaQ)
+
 
 
 ## Deployed Link
-https://rehtribution.github.io/13-bb-com-back/
+
+[![GitHub-Link - ClickHere](https://img.shields.io/badge/GitHub--Link-ClickHere-blue?style=for-the-badge)](https://rehtribution.github.io/13-bb-com-back/)
+
 
 ## Usage
 1. In the terminal run  ```mysql -u root -p```
@@ -86,8 +89,8 @@ npm i
 
 ## Author
 
-[![GitHub Portfolio -> - Rehtribution](https://img.shields.io/badge/GitHub_Portfolio_-->-Rehtribution-1f425f?style=for-the-badge)](https://github.com/Rehtribution)
+[![GitHub Portfolio -> - Rehtribution](https://img.shields.io/badge/GitHub_Portfolio_-->-Rehtribution-darkred?style=for-the-badge)](https://github.com/Rehtribution)
 
 ## Contributions
 
-- Help from tutor Anthony
+- Help from Anthony Parillo
